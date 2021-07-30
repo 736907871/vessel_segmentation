@@ -1,0 +1,7 @@
+庄文浩 手机号码：17862723186
+
+最终代码为final.m文件，打开即可运行
+我们组采用了DRIVE数据库中的training的20张图片
+最终分割结果储存在\DRIVE\DRIVE\training\result文件夹中
+
+测试评估参数在\DIP\测试与评估\测试与评估.txt文档中
